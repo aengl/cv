@@ -7,7 +7,7 @@
     "phone": "+46793342698",
     "website": "",
     "summary":
-      "Following the mantra of “turning a hobby into a job”, Andreas has been programming since the age of 13. He is passionate about artificial intelligence, web development, usability engineering and visual information seeking systems. His goal is to stay on the bleeding edge of technology, expanding his ever-growing arsenal languages and frameworks.",
+      "Following the mantra of “turning a hobby into a job”, Andreas has been programming since the age of 13. He is passionate about artificial intelligence, web development, usability engineering and visual information seeking systems. His goal is to stay on the bleeding edge of technology, expanding his ever-growing arsenal of languages and frameworks.",
     "location": {
       "address": "Stockholm, Sweden",
       "postalCode": "",
@@ -31,7 +31,7 @@
       "startDate": "2016-10",
       "endDate": "",
       "summary":
-        "Trifork is a software consultency headquartered in Denmark, with a heavy emphasis on helping customers to transition to new technologies. They also organise the GOTO conferences.",
+        "Trifork is a software consultancy headquartered in Denmark, with a heavy emphasis on helping customers to transition to new technologies. Additionally, Trifork organises the GOTO conferences.",
       "highlights": [
         "Developed the official GOTO Play app",
         "Consulted Atomist on creating automated code transformations",
@@ -123,7 +123,7 @@
       "level": "Advanced",
       "keywords": [
         "Recurrent neural networks",
-        "Reinforcement Learning",
+        "Reinforcement learning",
         "Support vector machines",
         "Tensorflow and Caffee2"
       ]
