@@ -33,9 +33,10 @@
       "summary":
         "Trifork is a software consultancy headquartered in Denmark, with a heavy emphasis on helping customers to transition to new technologies. Additionally, Trifork organises the GOTO conferences.",
       "highlights": [
-        "Developed the official GOTO Play app",
-        "Consulted Atomist on creating automated code transformations",
-        "Worked for DanskeBank on the \"pocketmoney\" banking app"
+        "Developed the official GOTO Play app (JS, React Native, MobX, fastlane)",
+        "Consulted Atomist on creating automated code transformations (TypeScript, ast-types, recast, webpack)",
+        "Worked for DanskeBank on the \"pocketmoney\" banking app (JS, React Native, Redux, Redux-Saga)",
+        "Modernised the front-end for HiHenry, a Swedish startup (JS, React, Redux, Redux-Saga webpack)"
       ]
     },
     {
@@ -47,7 +48,7 @@
       "summary":
         "An automation and passive-income oriented company, ENGL Engineering focuses on creating retail websites.",
       "highlights": [
-        "Built a distributed crawling infrastructure",
+        "Built a distributed crawling infrastructure (JS, TypeScript, Python, Elm, SQL, Docker, NodeJS, webpack, Puppeteer)",
         "Launched a number of retail websites in Germany"
       ]
     },
@@ -60,8 +61,8 @@
       "summary":
         "Heidenhain is a a leading manufacturer of precision measurement and control equipment.",
       "highlights": [
-        "Built a code editor for milling machines, optimised for working with very large files",
-        "Capture and visualisation of performance metrics for Heidenhain's own real-time OS"
+        "Built a code editor for milling machines, optimised for working with very large files (C++, Qt, QML)",
+        "Capture and visualisation of performance metrics for Heidenhain's own real-time OS (C++, Qt)"
       ]
     }
   ],
@@ -97,6 +98,15 @@
   ],
   "publications": [
     {
+      "name": "A Framework for an Infinitely Zoomable Information Landscape",
+      "publisher": "",
+      "releaseDate": "2009",
+      "website":
+        "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.220.8234",
+      "summary":
+        "Theories and practices behind implementing a zoomable user interface following the ZOIL paradigm."
+    },
+    {
       "name":
         "Zooming not Zapping: Demonstrating the ZOIL User Interface Paradigm for ITV Applications",
       "publisher": "",
@@ -104,7 +114,7 @@
       "website":
         "http://hci.uni-konstanz.de/permaedia/EuroITV08_Zooming_not_Zapping.pdf",
       "summary":
-        "A prototype presenting the concept of zoomable user interfaces for TVs."
+        "A C#/WPF prototype presenting the concept of zoomable user interfaces for TVs."
     }
   ],
   "skills": [
