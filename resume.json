@@ -64,6 +64,17 @@
         "Built a code editor for milling machines, optimised for working with very large files (C++, Qt, QML)",
         "Capture and visualisation of performance metrics for Heidenhain's own real-time OS (C++, Qt)"
       ]
+    },
+    {
+      "company": "ENGL Gerätebau GmbH",
+      "position": "Software Engineer",
+      "website": "http://englamps.de/",
+      "startDate": "2011-10",
+      "endDate": "2012-05",
+      "summary": "ENGL is an international brand for guitar amplifiers.",
+      "highlights": [
+        "Implemented UI code, interactive UI design utilities, DSP and audio playback libraries for a pocket-sized guitar amplifier (C++, C#, WPF)"
+      ]
     }
   ],
   "volunteer": [],
