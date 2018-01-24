@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Andreas Smeria",
+    "name": "Andreas Lynn Smeria",
     "label": "Software Engineer",
     "picture": "",
     "email": "ae@cephea.de",
@@ -36,7 +36,7 @@
         "Developed the official GOTO Play app (JS, React Native, MobX, fastlane)",
         "Consulted Atomist on creating automated code transformations (TypeScript, ast-types, recast, webpack)",
         "Worked for DanskeBank on the \"pocketmoney\" banking app (JS, React Native, Redux, Redux-Saga)",
-        "Modernised the front-end for HiHenry, a Swedish startup (JS, React, Redux, Redux-Saga webpack)"
+        "Modernised the front-end for HiHenry, a Swedish startup (JS, React, Redux, Redux-Saga, webpack)"
       ]
     },
     {
@@ -105,6 +105,14 @@
       "awarder": "Rothaus AG",
       "summary":
         "Each year, the three best Bachelor theses at the University of Konstanz are awarded the Rothaus Preis."
+    },
+    {
+      "title": "Show me the Data",
+      "date": "2010",
+      "awarder": "UvA",
+      "summary":
+        "Awarded \"best project\" in the \"Show me the Data\" student competition for data visualisation.",
+      "url": "http://www.visualcomplexity.com/vc/project.cfm?id=726"
     }
   ],
   "publications": [
@@ -132,7 +140,7 @@
     {
       "name": "Web Development",
       "level": "Master",
-      "keywords": ["React", "Angular 4", "Typescript", "Webpack"]
+      "keywords": ["React", "Redux", "Typescript", "Webpack"]
     },
     {
       "name": "Visual Analytics",
@@ -145,7 +153,7 @@
       "keywords": [
         "Recurrent neural networks",
         "Reinforcement learning",
-        "Support vector machines",
+        "Bayesian networks",
         "Tensorflow and Caffee2"
       ]
     }
