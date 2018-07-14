@@ -2,13 +2,9 @@
   "name": "cv",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andreas Smeria <ae@cephea.de>",
-  "license": "MIT",
-  "devDependencies": {
-    "jsonresume-theme-slicker": "0.1.0",
-    "resume-cli": "0.4.19"
-  },
+  "author": "Lynn Smeria <ae@cephea.de>",
+  "license": "The Unlicense",
   "scripts": {
-    "build": "resume export index.html -t slicker"
+    "build": "npx https://github.com/aengl/turtle-cv cv.yml -o index.html"
   }
 }
