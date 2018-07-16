@@ -17,12 +17,12 @@ work:
     from: September 2016
     until: April 2018
     summary:
-      Trifork is a software consultancy headquartered in Denmark, with a heavy   emphasis on helping customers to transition to new technologies. Additionally,   Trifork organises the GOTO conferences.
+      Trifork is a software consultancy headquartered in Denmark, with a heavy emphasis on helping customers to transition to new technologies. Additionally, Trifork organises the GOTO conferences.
     highlights:
       - Developed the official GOTO Play app (JS, React Native, MobX, fastlane)
-      - Consulted Atomist on creating automated code transformations (TypeScript,   ast-types, recast, webpack)
-      - Worked for DanskeBank on the "pocketmoney" banking app (JS, React Native,   Redux, Redux-Saga)
-      - Modernised the front-end for HiHenry, a Swedish startup (JS, React, Redux,   Redux-Saga, webpack)
+      - Consulted Atomist on creating automated code transformations (TypeScript, ast-types, recast, webpack)
+      - Worked for DanskeBank on the "pocketmoney" banking app (JS, React Native, Redux, Redux-Saga)
+      - Modernised the front-end for HiHenry, a Swedish startup (JS, React, Redux, Redux-Saga, webpack)
 
   - company: ENGL Engineering OHG
     from: January 2014
