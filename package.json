@@ -5,6 +5,7 @@
   "author": "Lynn Smeria <ae@cephea.de>",
   "license": "The Unlicense",
   "scripts": {
-    "build": "npx https://github.com/aengl/turtle-cv cv.yml -o index.html"
+    "build": "npx https://github.com/aengl/turtle-cv cv.yml -o index.html",
+    "open": "open https://aengl.github.io/cv/"
   }
 }
