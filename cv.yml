@@ -16,12 +16,12 @@ work:
     from: January 2014
     summary: An automation and passive-income oriented company, Tibi focuses on creating product recommendation engines and websites.
     highlights:
-      - description: Built a distributed crawling infrastructure
+      - summary: Built a distributed crawling infrastructure
         keywords:
           [TypeScript, Python, Docker, Node.js, CouchDB, Redis, ELK, Humio]
-      - description: Engineered a task runner for correlating and merging data documents
+      - summary: Engineered a task runner for correlating and merging data documents
         keywords: [TypeScript, Node.js]
-      - description: Created a data back-end for product recommendation
+      - summary: Created a data back-end for product recommendation
         keywords: [TypeScript, Node.js, GraphQL, Kubernetes]
 
   - company: Trifork AB
@@ -30,13 +30,13 @@ work:
     until: April 2018
     summary: Trifork is a software consultancy headquartered in Denmark, with a heavy emphasis on helping customers to transition to new technologies. Additionally, Trifork organises the GOTO conferences.
     highlights:
-      - description: Developed the official GOTO Play app
+      - summary: Developed the [official GOTO Play app](https://play.google.com/store/apps/details?id=com.gotoplay)
         keywords: [JavaScript, React Native, MobX, fastlane]
-      - description: Consulted Atomist on creating automated code transformations
+      - summary: Consulted Atomist on creating automated code transformations
         keywords: [TypeScript, AST, webpack]
-      - description: Worked for DanskeBank on the "pocketmoney" banking app
+      - summary: Worked for DanskeBank on the ["pocketmoney" banking app](https://play.google.com/store/apps/details?id=com.danskebank.pocketmoney.dk.prod)
         keywords: [JavaScript, React Native, Redux, Redux-Saga]
-      - description: Modernised the front-end for HiHenry, a Swedish startup
+      - summary: Modernised the front-end for HiHenry, a Swedish startup
         keywords: [JavaScript, React, Redux, Redux-Saga, webpack]
 
   - company: Dr. Johannes Heidenhain GmbH
@@ -45,9 +45,9 @@ work:
     until: November 2013
     summary: Heidenhain is a a leading manufacturer of precision measurement and control equipment.
     highlights:
-      - description: Built a code editor for milling machines, optimised for working with very large files
+      - summary: Built a code editor for milling machines, optimised for working with very large files
         keywords: [C++, Qt, QML]
-      - description: Capture and visualisation of performance metrics for Heidenhain's own real-time OS
+      - summary: Capture and visualisation of performance metrics for Heidenhain's own real-time OS
         keywords: [C++, Qt]
 
   - company: ENGL Gerätebau GmbH
@@ -56,7 +56,7 @@ work:
     until: May 2012
     summary: ENGL is an international brand for guitar amplifiers.
     highlights:
-      - description: Implemented UI code, interactive UI design utilities, DSP and audio playback libraries for a pocket-sized guitar amplifier
+      - summary: Implemented UI code, interactive UI design utilities, DSP and audio playback libraries for a pocket-sized guitar amplifier
         keywords: [C++, C#, WPF]
 
 education:
