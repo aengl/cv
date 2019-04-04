@@ -14,13 +14,13 @@ social:
 work:
   - company: Tibi
     from: January 2014
-    summary: An automation and passive-income oriented company, Tibi focuses on creating product recommendation engines and websites.
+    summary: An automation and passive-income oriented company, Tibi focuses on creating product recommendation engines and consumer-facing websites.
     highlights:
       - summary: Built a distributed crawling infrastructure
         keywords:
-          [TypeScript, Python, Docker, Node.js, CouchDB, Redis, ELK, Humio]
+          [TypeScript, Docker, Swarm, Node.js, CouchDB, Redis, ELK, Humio]
       - summary: Engineered a task runner for correlating and merging data documents
-        keywords: [TypeScript, Node.js]
+        keywords: [TypeScript, Node.js, WebSocket, PWA, Monaco]
       - summary: Created a data back-end for product recommendation
         keywords: [TypeScript, Node.js, GraphQL, Kubernetes]
 

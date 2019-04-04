@@ -1,11 +1,14 @@
 {
   "name": "cv",
-  "version": "1.0.0",
-  "main": "index.js",
   "author": "Lynn Smeria <ae@cephea.de>",
   "license": "Unlicense",
+  "private": true,
+  "dependencies": {
+    "turtle-cv": "https://github.com/aengl/turtle-cv"
+  },
   "scripts": {
-    "build": "npx https://github.com/aengl/turtle-cv cv.yml -o index.html",
+    "build": "turtle-cv cv.yml -o index.html",
+    "dev": "open index.html && turtle-cv cv.yml -o index.html --watch",
     "open": "open https://aengl.github.io/cv/"
   }
 }
