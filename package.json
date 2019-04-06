@@ -4,7 +4,7 @@
   "license": "Unlicense",
   "private": true,
   "dependencies": {
-    "turtle-cv": "0.7.0"
+    "turtle-cv": "0.8.0"
   },
   "scripts": {
     "build": "turtle-cv cv.yml -o index.html",
