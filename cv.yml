@@ -95,7 +95,7 @@ publications:
 
   - title: "Zooming not Zapping: Demonstrating the ZOIL User Interface Paradigm for ITV Applications"
     date: 2008
-    url: http://hci.uni-konstanz.de/permaedia/EuroITV08_Zooming_not_Zapping.pdf
+    url: https://kops.uni-konstanz.de/handle/123456789/5720
     summary: A C#/WPF prototype presenting the concept of zoomable user interfaces for TVs.
 
 skills:
@@ -105,7 +105,7 @@ skills:
       - React & Redux
       - Node.js
       - TypeScript
-      - Webpack
+      - Next.js
 
   - name: Visual Analytics
     level: Advanced
@@ -122,6 +122,14 @@ skills:
       - Reinforcement learning
       - Bayesian networks
       - Tensorflow
+
+  - name: DevOps
+    level: Advanced
+    keywords:
+      - Docker
+      - Kubernetes
+      - Serverless
+      - AWS, Digital Ocean & Now
 
 languages:
   - name: German
