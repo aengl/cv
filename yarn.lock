@@ -926,9 +926,10 @@ token-stream@0.0.1:
   resolved "https://registry.yarnpkg.com/token-stream/-/token-stream-0.0.1.tgz#ceeefc717a76c4316f126d0b9dbaa55d7e7df01a"
   integrity sha1-zu78cXp2xDFvEm0LnbqlXX598Bo=
 
-"turtle-cv@https://github.com/aengl/turtle-cv":
+turtle-cv@latest:
   version "0.7.0"
-  resolved "https://github.com/aengl/turtle-cv#0d3a6461e97a17e4d572e6d6b5e8d914e34b9ca3"
+  resolved "https://registry.yarnpkg.com/turtle-cv/-/turtle-cv-0.7.0.tgz#70f4ef5c809dd9ba2a68582a0074c59f0d964525"
+  integrity sha512-1ad+s28R/w8LQO37flxIrHltxlPvXaab+R78hQZvj4rJIfXYtgjIVXLEa9QzYGoDQGucBZu6MsCeXJ9HPZCygA==
   dependencies:
     caporal "1.1.0"
     js-yaml "3.13.0"
