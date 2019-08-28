@@ -2,10 +2,13 @@ profile:
   name: Andreas Lynn Smeria
   label: Software Engineer & Data Scientist
   email: ae@cephea.de
-  phone: "+46793342698"
   location: Travelling
   summary: >-
-    Following the mantra of “turning a hobby into a job”, Andreas has been programming since the age of 13. He is passionate about artificial intelligence, web development, usability engineering and visual information seeking systems. His goal is to stay on the bleeding edge of technology, expanding his ever-growing arsenal of languages and frameworks.
+    Following the mantra of “turning a hobby into a job”, Andreas has been
+    programming since the age of 13. He is passionate about artificial
+    intelligence, web development, usability engineering and visual information
+    seeking systems. His goal is to stay on the bleeding edge of technology,
+    expanding his ever-growing arsenal of languages and frameworks.
 
 social:
   - network: GitHub
@@ -14,27 +17,38 @@ social:
 work:
   - company: Tibi
     from: January 2014
-    summary: An automation and passive-income oriented company, Tibi focuses on creating product recommendation engines and consumer-facing websites.
+    summary:
+      An automation and passive-income oriented company, Tibi focuses on
+      creating product recommendation engines and consumer-facing websites.
     highlights:
+      - summary:
+          Created [Cocoon](https://github.com/aengl/cocoon-demo), a task runner
+          for correlating and merging data documents
+        keywords: [TypeScript, Node.js, WebSocket, PWA, Monaco]
       - summary: Built a distributed crawling infrastructure
         keywords:
           [TypeScript, Docker, Swarm, Node.js, CouchDB, Redis, ELK, Humio]
-      - summary: Engineered a task runner for correlating and merging data documents
-        keywords: [TypeScript, Node.js, WebSocket, PWA, Monaco]
-      - summary: Created a data back-end for product recommendation
+      - summary: Engineered a data back-end for product recommendation
         keywords: [TypeScript, Node.js, GraphQL, Kubernetes]
 
   - company: Trifork AB
     url: http://trifork.com/
     from: September 2016
     until: April 2018
-    summary: Trifork is a software consultancy headquartered in Denmark, with a heavy emphasis on helping customers to transition to new technologies. Additionally, Trifork organises the GOTO conferences.
+    summary:
+      Trifork is a software consultancy headquartered in Denmark, with a heavy
+      emphasis on helping customers to transition to new technologies.
+      Additionally, Trifork organises the GOTO conferences.
     highlights:
-      - summary: Developed the [official GOTO Play app](https://play.google.com/store/apps/details?id=com.gotoplay)
+      - summary:
+          Developed the [official GOTO Play
+          app](https://play.google.com/store/apps/details?id=com.gotoplay)
         keywords: [JavaScript, React Native, MobX, fastlane]
       - summary: Consulted Atomist on creating automated code transformations
-        keywords: [TypeScript, AST, webpack]
-      - summary: Worked for DanskeBank on the ["pocketmoney" banking app](https://play.google.com/store/apps/details?id=com.danskebank.pocketmoney.dk.prod)
+        keywords: [TypeScript, AST]
+      - summary:
+          Worked for DanskeBank on the ["pocketmoney" banking
+          app](https://play.google.com/store/apps/details?id=com.danskebank.pocketmoney.dk.prod)
         keywords: [JavaScript, React Native, Redux, Redux-Saga]
       - summary: Modernised the front-end for HiHenry, a Swedish startup
         keywords: [JavaScript, React, Redux, Redux-Saga, webpack]
@@ -43,11 +57,17 @@ work:
     url: https://www.heidenhain.com/
     from: June 2012
     until: November 2013
-    summary: Heidenhain is a a leading manufacturer of precision measurement and control equipment.
+    summary:
+      Heidenhain is a a leading manufacturer of precision measurement and
+      control equipment.
     highlights:
-      - summary: Built a code editor for milling machines, optimised for working with very large files
+      - summary:
+          Built a code editor for milling machines, optimised for working with
+          very large files
         keywords: [C++, Qt, QML]
-      - summary: Capture and visualisation of performance metrics for Heidenhain's own real-time OS
+      - summary:
+          Capture and visualisation of performance metrics for Heidenhain's own
+          real-time OS
         keywords: [C++, Qt]
 
   - company: ENGL Gerätebau GmbH
@@ -56,7 +76,9 @@ work:
     until: May 2012
     summary: ENGL is an international brand for guitar amplifiers.
     highlights:
-      - summary: Implemented UI code, interactive UI design utilities, DSP and audio playback libraries for a pocket-sized guitar amplifier
+      - summary:
+          Implemented UI code, interactive UI design utilities, DSP and audio
+          playback libraries for a pocket-sized guitar amplifier
         keywords: [C++, C#, WPF]
 
 education:
@@ -79,24 +101,34 @@ awards:
     date: 2010
     awarder: Rothaus AG
     url: https://www.uni-konstanz.de/universitaet/ueber-die-universitaet-konstanz/preise-und-auszeichnungen/externe-preise-und-auszeichnungen/studienpreis-der-rothaus-ag/
-    summary: Each year, the three best Bachelor theses at the University of Konstanz are awarded the Rothaus Preis.
+    summary:
+      Each year, the three best Bachelor theses at the University of Konstanz
+      are awarded the Rothaus Preis.
 
   - name: Show me the Data
     date: 2010
     awarder: UvA
     url: http://www.visualcomplexity.com/vc/project.cfm?id=726
-    summary: Awarded "best project" in the "Show me the Data" student competition for data visualisation.
+    summary:
+      Awarded "best project" in the "Show me the Data" student competition for
+      data visualisation.
 
 publications:
   - title: A Framework for an Infinitely Zoomable Information Landscape
     date: 2009
     url: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.220.8234
-    summary: Theories and practices behind implementing a zoomable user interface following the ZOIL paradigm.
+    summary:
+      Theories and practices behind implementing a zoomable user interface
+      following the ZOIL paradigm.
 
-  - title: "Zooming not Zapping: Demonstrating the ZOIL User Interface Paradigm for ITV Applications"
+  - title:
+      "Zooming not Zapping: Demonstrating the ZOIL User Interface Paradigm for
+      ITV Applications"
     date: 2008
     url: https://kops.uni-konstanz.de/handle/123456789/5720
-    summary: A C#/WPF prototype presenting the concept of zoomable user interfaces for TVs.
+    summary:
+      A C#/WPF prototype presenting the concept of zoomable user interfaces for
+      TVs.
 
 skills:
   - name: Web Development
