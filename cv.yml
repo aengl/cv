@@ -50,7 +50,7 @@ work:
           Worked for DanskeBank on the ["pocketmoney" banking
           app](https://play.google.com/store/apps/details?id=com.danskebank.pocketmoney.dk.prod)
         keywords: [JavaScript, React Native, Redux, Redux-Saga]
-      - summary: Modernised the front-end for HiHenry, a Swedish startup
+      - summary: Re-built the front-end for [HiHenry](https://hihenry.com)
         keywords: [JavaScript, React, Redux, Redux-Saga, webpack]
 
   - company: Dr. Johannes Heidenhain GmbH
