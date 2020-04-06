@@ -1349,10 +1349,10 @@ trough@^1.0.0:
   resolved "https://registry.yarnpkg.com/trough/-/trough-1.0.5.tgz#b8b639cefad7d0bb2abd37d433ff8293efa5f406"
   integrity sha512-rvuRbTarPXmMb79SmzEp8aqXNKcK+y0XaB298IXueQ8I2PsrATcPBCSPyK/dDNa2iWOhKlfNnOjdAOTBU/nkFA==
 
-turtle-cv@0.15.0:
-  version "0.15.0"
-  resolved "https://registry.yarnpkg.com/turtle-cv/-/turtle-cv-0.15.0.tgz#edb881d3719b9f4c44b8760e3fc620d3d969fd44"
-  integrity sha512-yN2T4PWZu84OduwUf9C6Fy9PrvdgmOta6M+X9x9T62Nb8tMPZsV2/vxQIKeASPawgZrnvqIni+hPNefMwh8TzQ==
+turtle-cv@0.15.1:
+  version "0.15.1"
+  resolved "https://registry.yarnpkg.com/turtle-cv/-/turtle-cv-0.15.1.tgz#63a48102c424230ac1d5a749533dc93d6f1a0a1e"
+  integrity sha512-PzNUDg+fVOrH/6elnuR8Id5MARBfNhPdiB5xIBgVXC6nw57bVv/1kXGeSzVLORNlepxPhnFapc6bkCRBXBzQSQ==
   dependencies:
     "@babel/core" "7.9.0"
     "@babel/plugin-transform-modules-commonjs" "7.9.0"
