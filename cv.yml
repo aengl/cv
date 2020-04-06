@@ -31,6 +31,17 @@ work:
       - summary: Engineered a data back-end for product recommendation
         keywords: [TypeScript, Node.js, GraphQL, Kubernetes]
 
+  - company: Proposales AB
+    url: http://proposales.com/
+    from: November 2019
+    summary:
+      Proposales creates a platform for creating and sending proposals online.
+    highlights:
+      - summary:
+          Developed the web application and back-end, and managed the
+          infrastructure
+        keywords: [JavaScript, React, Redux, AWS]
+
   - company: Trifork AB
     url: http://trifork.com/
     from: September 2016
